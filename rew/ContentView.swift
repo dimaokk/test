@@ -1,15 +1,8 @@
-//
-//  ContentView.swift
-//  rew
-//
-//  Created by dima on 15.02.2021.
-//
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, world! rew")
             .padding()
     }
 }
